@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robbie371/starwarsplanets.git/static/css/main.62996289.chunk.css",
+    "main.js": "/robbie371/starwarsplanets.git/static/js/main.e476c64b.chunk.js",
+    "main.js.map": "/robbie371/starwarsplanets.git/static/js/main.e476c64b.chunk.js.map",
+    "runtime-main.js": "/robbie371/starwarsplanets.git/static/js/runtime-main.a2cd8d32.js",
+    "runtime-main.js.map": "/robbie371/starwarsplanets.git/static/js/runtime-main.a2cd8d32.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robbie371/starwarsplanets.git/static/css/2.31461e4f.chunk.css",
+    "static/js/2.2978d350.chunk.js": "/robbie371/starwarsplanets.git/static/js/2.2978d350.chunk.js",
+    "static/js/2.2978d350.chunk.js.map": "/robbie371/starwarsplanets.git/static/js/2.2978d350.chunk.js.map",
+    "static/js/3.13a0641c.chunk.js": "/robbie371/starwarsplanets.git/static/js/3.13a0641c.chunk.js",
+    "static/js/3.13a0641c.chunk.js.map": "/robbie371/starwarsplanets.git/static/js/3.13a0641c.chunk.js.map",
+    "index.html": "/robbie371/starwarsplanets.git/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robbie371/starwarsplanets.git/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.62996289.chunk.css.map": "/robbie371/starwarsplanets.git/static/css/main.62996289.chunk.css.map",
+    "static/js/2.2978d350.chunk.js.LICENSE.txt": "/robbie371/starwarsplanets.git/static/js/2.2978d350.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robbie371/starwarsplanets.git/static/media/STARWARS.50e674cd.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2cd8d32.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.2978d350.chunk.js",
+    "static/css/main.62996289.chunk.css",
+    "static/js/main.e476c64b.chunk.js"
+  ]
+}
